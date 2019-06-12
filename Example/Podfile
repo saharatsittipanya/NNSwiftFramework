@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NNSwiftFramework_Example' do
+  pod 'NNSwiftFramework', :path => '../'
+
+  target 'NNSwiftFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

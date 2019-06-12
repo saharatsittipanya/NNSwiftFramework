@@ -1,3 +1,6 @@
+
+![Swift](https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.0-9/56569056_2693342450708262_7352832849378017280_o.jpg?_nc_cat=102&_nc_oc=AQmO25b61lm0SPHP1md3CiQSLBYXm4hOdTcgTetd-LP3s-i9ncMmhkCVH5nbZ6B2lIk&_nc_ht=scontent.fbkk5-6.fna&oh=314a98fc1090ec4e5c960b44e694b662&oe=5D99647C)
+
 # NNSwiftFramework
 
 [![CI Status](https://img.shields.io/travis/!M'n0N@m3/NNSwiftFramework.svg?style=flat)](https://travis-ci.org/!M'n0N@m3/NNSwiftFramework)
@@ -11,6 +14,12 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+### • Swift 4.2
+
+### • XCode 10.0
+
+### • iOS 12.0
+
 ## Installation
 
 NNSwiftFramework is available through [CocoaPods](https://cocoapods.org). To install
@@ -20,10 +29,22 @@ it, simply add the following line to your Podfile:
 pod 'NNSwiftFramework'
 ```
 
+Then save Podfile run this on command line:
+
+```ruby
+pod install
+```
+or
+```
+pod update
+```
+
 ## Author
 
-!M'n0N@m3, saharat_sittipanya@cmu.ac.th
+[!M'n0N@m3](www.facebook.com/noname.sinewy)
+
+noname.sinewy@gmail.com
 
 ## License
 
-NNSwiftFramework is available under the MIT license. See the LICENSE file for more info.
+NNSwiftFramework is available under the MIT license. See the [LICENSE](https://github.com/saharatsittipanya/NNSwiftFramework/blob/master/LICENSE) file for more info.
